@@ -1,2 +1,2 @@
 # hooks-tutorial
-Created with CodeSandbox
+Aprendendo a manipular estados em componentes funcionais utilizando o hook useState.
